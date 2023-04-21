@@ -12,3 +12,8 @@ p {
     margin-bottom: .5em 0;
 }
 
+div + p {
+    color: purple;
+    font-family: sans-serif;
+    font-weight: bold;
+}
