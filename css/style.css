@@ -17,3 +17,8 @@ div + p {
     font-family: sans-serif;
     font-weight: bold;
 }
+
+div p {
+    margin: 1em 0;
+}
+
